@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'weldermate-eramet-kvinesdal'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3E0F5321AE514C1AAC7491AE4B30A84B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E257D6F68A344883BF53E328135DF4EF }}
